@@ -1,4 +1,4 @@
-# EduSense - Person Detection with Persistent IDs
+# Person Detection with Persistent IDs
 
 A lightweight Streamlit app that detects people in classroom videos using YOLO and maintains **persistent tracking IDs** via ByteTrack. Person #1 stays Person #1 throughout the entire video.
 
